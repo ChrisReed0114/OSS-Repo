@@ -2,3 +2,5 @@
 ## Name: Chris Reed
 ### email: reedc7@rpi.edu
 ### github account: ChrisReed0114
+### mattermost: chrisreed0114
+Photo of Jason 
