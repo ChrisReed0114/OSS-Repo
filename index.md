@@ -7,3 +7,4 @@ Photo of Chris: <img src="ChrisReed.jpg" width = "500" height = "500">
 
 ## Lab Reports
 
+[Lab 1](labs/lab-01/report.md)
