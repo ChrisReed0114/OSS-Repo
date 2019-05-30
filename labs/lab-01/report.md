@@ -2,7 +2,13 @@
 
 ### Reading Assignments
 
-##### Random fill?
+##### Open Source Definition
+
+
+
+##### Smart Questions
+
+##### Free Culture
 
 ### Regex
 
