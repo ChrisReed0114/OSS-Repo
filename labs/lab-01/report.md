@@ -1,13 +1,13 @@
 # Lab 01 Report - Introduction to Open Source Software
 
-## Reading Assignments
+### Reading Assignments
 
 Random fill?
 
-## Regex
+### Regex
 
-## Crossword
+### Crossword
 
-## Blocky
+### Blocky
 
-## Reflection
+### Reflection
