@@ -18,6 +18,11 @@ What I got out of this article is that big industries continue to find ways to e
 
 ### Regex
 
+<img src="Regex1.png" width = "500" height = "500">
+<img src="Regex1.png" width = "500" height = "500">
+<img src="Regex1.png" width = "500" height = "500">
+<img src="Regex1.png" width = "500" height = "500">
+
 ### Crossword
 
 ### Blocky
