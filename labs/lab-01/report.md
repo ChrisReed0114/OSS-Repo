@@ -35,6 +35,6 @@ What I got out of this article is that big industries continue to find ways to e
 
 ### Blocky
 
-<img src="Blocky" width = "500" height = "500">
+<img src="Blocky.png" width = "500" height = "500">
 
 ### Reflection
