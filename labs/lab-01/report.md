@@ -38,3 +38,7 @@ What I got out of this article is that big industries continue to find ways to e
 <img src="Blocky.png" width = "500" height = "500">
 
 ### Reflection
+
+The Khmer software looks at long strings of dna and pulls out substring s of length k starting at each nucleotide in the DNA string.  It stores each unique k-mer in the hash table to be stored and interpreted in bioinfromatics research.  The creates of the Khmer software are looking for help creating test cases that look at the scalability of this program.  I feel as though I could maybe provide assistance is writing these test cases.  Also with the development of new ways to store data in more efficint data structures.  It may be worth try different implementations of a hash table to see if results can be found more efficiently.  These are two things I may be interested in exploring and trying.
+
+
