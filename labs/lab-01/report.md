@@ -19,14 +19,22 @@ What I got out of this article is that big industries continue to find ways to e
 ### Regex
 
 <img src="Regex1.png" width = "500" height = "500">
-<img src="Regex1.png" width = "500" height = "500">
-<img src="Regex1.png" width = "500" height = "500">
-<img src="Regex1.png" width = "500" height = "500">
+<img src="Regex2.png" width = "500" height = "500">
+<img src="Regex3.png" width = "500" height = "500">
+<img src="Regex4.png" width = "500" height = "500">
+<img src="Regex5.png" width = "500" height = "500">
+<img src="Regex6.png" width = "500" height = "500">
+<img src="Regex7.png" width = "500" height = "500">
 
 ### Crossword
 
+<img src="Cross1.png" width = "500" height = "500">
+<img src="Cross2.png" width = "500" height = "500">
+<img src="Cross3.png" width = "500" height = "500">
+<img src="Cross4.png" width = "500" height = "500">
+
 ### Blocky
 
-
+<img src="Blocky" width = "500" height = "500">
 
 ### Reflection
