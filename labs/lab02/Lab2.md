@@ -35,7 +35,7 @@ https://github.com/ChrisReed0114/PullReq
 
 ### Tagging
 
-<img src="lagl.png" width = "500" height = "500">
+<img src="tagl.png" width = "500" height = "500">
 
 ### Group 5 Project Ideas
 
