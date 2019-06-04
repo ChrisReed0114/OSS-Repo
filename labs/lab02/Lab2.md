@@ -6,7 +6,7 @@ https://github.com/ChrisReed0114/Lab2Part1
 
 ### Gitk vs. Git Log
 
-Insert Image of gitlog v gitk
+<img src="gitlog_v_gitk.png" width = "500" height = "500">
 
 ### Spoon Knife
 
@@ -18,15 +18,24 @@ https://github.com/ChrisReed0114/PullReq
 
 ### Learn Git Branching
 
-Add screenshots
+<img src="LGB1.png" width = "500" height = "500">
+
+<img src="LGB2.png" width = "500" height = "500">
+
+<img src="LGB3.png" width = "500" height = "500">
+
+<img src="LGB4.png" width = "500" height = "500">
+
+<img src="LGB_finished.png" width = "500" height = "500">
 
 ### Git Diff
 
-Insert Image of git diff
+
+<img src="diff.png" width = "500" height = "500">
 
 ### Tagging
 
-Insert picture of tagging
+<img src="lagl.png" width = "500" height = "500">
 
 ### Group 5 Project Ideas
 
