@@ -5,5 +5,5 @@
 * First commit: 4/26/2019
 <img src="newest.png" width = "500" height = "500">
 * Latest commit: 
-<img src="latest.png" width = "500" height = "500">
+<img src="First.png" width = "500" height = "500">
 * Current branches: 
