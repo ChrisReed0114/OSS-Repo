@@ -32,6 +32,6 @@ Commentary
 
 #### Gource
 
-Pic
+<img src="Gource.png" width = "500" height = "500">
 
-Youtube Link
+https://www.youtube.com/watch?v=5lkSEWa4biQ
