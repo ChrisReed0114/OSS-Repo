@@ -4,7 +4,7 @@
 #### Project Stats
 
 * Contributors: 2
-<img src="Contrib.png" width = "500" height = "500">
+<img src="/images/Contrib.png" width = "500" height = "500">
 * Lines of code: 14225
 <img src="lines.png" width = "500" height = "500">
 * First commit: 3/13/2019
