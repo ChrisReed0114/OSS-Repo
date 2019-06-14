@@ -31,7 +31,7 @@
 
 <img src="GitStats.png" width = "500" height = "500">
 
-Some start differnces between what I found on GitHub and what the GitStats showed was that Git Stats said there was 4 authors while GitHub only has 2 contributors.  Another big difference is just the neumber of lines, GitHub says there is onlt about 11,000 while GitStats says about 14,000.  
+Some start differnces between what I found on GitHub and what the GitStats showed was that Git Stats said there was 4 authors while GitHub only has 2 contributors.  Another big difference is just the neumber of lines, GitHub says there is onlt about 11,000 while GitStats says about 14,000. Outside of these differences, everything else seems to be reporting the same.
 
 #### Gource
 
