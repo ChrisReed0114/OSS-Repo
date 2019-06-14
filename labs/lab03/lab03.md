@@ -24,7 +24,8 @@
 <img src="newest.png" width = "500" height = "500">
 * Latest commit: 4/26/2019
 <img src="First.png" width = "500" height = "500">
-* Current branches: 
+* Current branches: 2
+<img src="branch.png" width = "500" height = "500">
 
 #### Gitstats
 
