@@ -12,7 +12,8 @@
     First Commit: Jan 26, 2018
     Last Commit: Apr 5, 2019
     Number of Branches: Doesn't say
-<img src="images/gitstats.png">
-<img src="images/gource.png">
+
+<img src="/images/ADgitstats.png">
+<img src="/images/ADgource.png">
     
     
