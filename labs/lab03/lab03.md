@@ -12,6 +12,10 @@
 
 ## Part 2 Community
 
+#### Group Repo
+
+https://github.com/ChrisReed0114/OSS-Repo/tree/master/lab3-contrib
+
 ### BeirRun
 
 #### Project Stats
