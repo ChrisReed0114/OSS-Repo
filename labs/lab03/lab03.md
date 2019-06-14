@@ -30,7 +30,7 @@
 
 <img src="GitStats.png" width = "500" height = "500">
 
-Commentary
+
 
 #### Gource
 
