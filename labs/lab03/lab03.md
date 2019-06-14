@@ -4,11 +4,11 @@
 
 ### Mathematical Formulas
 
-Pic
+<img src="Equations.png" width = "500" height = "500">
 
 ### Matrix
 
-Pic
+<img src="Matrix.png" width = "500" height = "500">
 
 ## Part 2 Community
 
