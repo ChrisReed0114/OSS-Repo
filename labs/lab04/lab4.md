@@ -34,5 +34,6 @@ Link
 | Website                              | License Present | License                                                   |
 |--------------------------------------|-----------------|-----------------------------------------------------------|
 | https://github.com/meowskers/BeirRun | yes             | [MIT License](https://en.wikipedia.org/wiki/MIT_License)  |
+| https://github.com/sezenack/Red-Army-App/blob/master/LICENSE | yes | [MIT License](https://en.wikipedia.org/wiki/MIT_License) |
 
 
