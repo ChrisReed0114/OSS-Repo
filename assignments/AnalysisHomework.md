@@ -52,7 +52,7 @@ https://github.com/YACS-RCOS/yacs
 
 https://github.com/Zarel/Pokemon-Showdown
 
-### Pokemon-Showdoen a Full Analysis
+### Pokemon-Showdown a Full Analysis
 
 
 
