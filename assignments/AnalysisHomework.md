@@ -54,6 +54,6 @@ https://github.com/Zarel/Pokemon-Showdown
 
 ### Pokemon-Showdown a Full Analysis
 
-
-
+  This project interested me the most because it is the largest open source project that I use regularly.  The project is a online competitve Pokemon battle simulator.  It continues to be updated as each new game is released to reflect how the game play would work in the console games.  This task is quite large and would be impossible without a large team of dedicated developers, sysadmins and the large fan base of users and contributors towards this open source project.  
+  
 
