@@ -20,8 +20,10 @@ It is pretty easy to agree with the claim in this section because the Web team's
 
 It makes perfect sense why Linux would choose a copy-left license.  It was created alongside other popular operating systems like Windows and Safari but it has always been cmpletely open source.  This is a great principle to follow but other, proprietary companies might see that as a weakness and try to profit off of another person's hard work.  Luckily copy-left licenses like the GPL v2 license makes sure that if someone is to use or repurpose their work, anything they put out must also fall under the same license.  Being the competitive operating system that Linux is, it appeases its fan base by giving them their complete freedom while also preventing a company from restricting the rights of others.  Much of linux's success comes from the high approval rates of its users due to its adherence with the principles of open source, and fast speeds with little to no malware.  There have been many derivatives off of linux as well and while people may joint off to use different flavors of linux they are still utilizing a part of linux.  This has allowed linux to stretch far and wide in its usability across many different applications. In conclusion, Linux's creation has been based off the idea of free software and they continue to live up to it with their licensing, expanding their amount of users exponentially.
 
-https://www.linux.com/what-is-linux
+https://www.linux.com/what-is-linux 
+
 https://www.adminschoice.com/download-linux-top-10-free-linux-distributions-for-desktop-and-servers
+
 https://www.linux.org/
 
 ### Group Repository
