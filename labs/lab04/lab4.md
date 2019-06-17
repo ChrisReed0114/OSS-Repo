@@ -26,7 +26,7 @@ https://www.linux.org/
 
 ### Group Repository
 
-Link
+https://github.com/barnesv17/Lab04-Licensing
 
 ### Project Licenses Table
 
@@ -34,6 +34,10 @@ Link
 | Website                              | License Present | License                                                   |
 |--------------------------------------|-----------------|-----------------------------------------------------------|
 | https://github.com/meowskers/BeirRun | yes             | [MIT License](https://en.wikipedia.org/wiki/MIT_License)  |
-| https://github.com/sezenack/Red-Army-App/blob/master/LICENSE | yes | [MIT License](https://en.wikipedia.org/wiki/MIT_License) |
+| https://github.com/sezenack/Red-Army-App | yes | [MIT License](https://en.wikipedia.org/wiki/MIT_License) |
+| https://github.com/copperwater/yacs | yes | [MIT License](https://en.wikipedia.org/wiki/MIT_License) |
+| https://github.com/thepoly/pipeline | yes | [MIT License](https://en.wikipedia.org/wiki/MIT_License) |
+| https://github.com/saprap1/auto-calendar | yes | [MIT License](https://en.wikipedia.org/wiki/MIT_License) |
+
 
 
