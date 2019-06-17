@@ -31,8 +31,8 @@ Link
 ### Project Licenses Table
 
 
-| Website                              | License Present | License                                               |
-|--------------------------------------|-----------------|-------------------------------------------------------|
-| https://github.com/meowskers/BeirRun | yes             | MIT License https://en.wikipedia.org/wiki/MIT_License |
+| Website                              | License Present | License                                                   |
+|--------------------------------------|-----------------|-----------------------------------------------------------|
+| https://github.com/meowskers/BeirRun | yes             | [MIT License](https://en.wikipedia.org/wiki/MIT_License)  |
 
 
