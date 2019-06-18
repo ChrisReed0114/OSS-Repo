@@ -54,6 +54,6 @@ https://github.com/Zarel/Pokemon-Showdown
 
 ### Pokemon-Showdown a Full Analysis
 
-  This project interested me the most because it is the largest open source project that I use regularly.  The project is a online competitve Pokemon battle simulator.  It continues to be updated as each new game is released to reflect how the game play would work in the console games.  This task is quite large and would be impossible without a large team of dedicated developers, sysadmins and the large fan base of users and contributors towards this open source project.  
-  
+  This project interested me the most because it is the largest open source project that I use regularly.  The project is an online competitive Pokemon battle simulator.  It continues to be updated as each new game is released to reflect how the game play would work in the console games.  This task is quite large and would be impossible without a large team of dedicated developers, sysadmins and fan base of users/contributors towards this open source project.  
+  Pokemon-Showdown is licensed under the MIT License, which is OSI certified and is considered free software.  This means anyone can use, improve or distribute the software however they would like with one exception.  The one ![ requirement an MIT license places on its recipients is that they keep my copyright notice intact when they repurpose, redistribute, or otherwise reuse my code.](https://ttmm.io/tech/why-the-mit-license/).  
 
