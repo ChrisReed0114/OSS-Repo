@@ -62,6 +62,6 @@ I gave this project a 0 for languages because it almost completely utilizes Java
 
 With many new features constantly being added to the [metagame](https://www.grammarly.com/blog/meta-meaning/) there are always new things to implement in the project.  This calls for a lot of updates that need to be added in order for the project to reflect its goal of being a fair and balanced competitve battle simulator, as deemed by the collective community.  This project is very active, with multiple commits every week.  This would not be possible with only a few contributors.  Having 223 contributors definitely helps alleviate the work load that these changes require.  They also have dedicated staff who are in charge of development and system administration. This large and established network of contributors helps to protect the project from dying, with plenty of people to continue the development of this project while past contributors move on.  
     
-  
+
     
     
