@@ -5,73 +5,73 @@
 
 #### tutorial.cxx
 
-Insert Pic
+<img src="Tutorial_Step1.png" width = "500" height = "500">
 
 #### CMakeLists.txt
 
-Insert Pic
+<img src="CMakeLists_Step1.png" width = "500" height = "500">
 
 #### Running Tutorial
 
-Insert Pic
+<img src="Step1.png" width = "500" height = "500">
 
 
 ### Step 2
 
 #### tutorial.cxx
 
-Insert Pic
+<img src="Tutorial_Step2.png" width = "500" height = "500">
 
 #### CMakeLists.txt
 
-Insert Pic
+<img src="CMakeLists_Step2.png" width = "500" height = "500">
 
 #### Running Tutorial
 
-Insert Pic
+<img src="Step2.png" width = "500" height = "500">
 
 
 ### Step 3
 
 #### CMakeLists.txt
 
-Insert Pic
+<img src="CMakeLists_Step3.png" width = "500" height = "500">
 
 #### MathFunctions/CMakeLists.txt
 
-Insert Pic
+<img src="cmakelists_Step3.png" width = "500" height = "500">
 
 #### Running Tutorial
 
-Insert Pic
+<img src="Step3.png" width = "500" height = "500">
 
 
 ### Step 4
 
 #### CMakeLists.txt
 
-Insert Pic
+<img src="CMakeLists_Step4.png" width = "500" height = "500">
 
 #### MathFunctions/CMakeLists.txt
 
-Insert Pic
+<img src="cmakelists_Step4.png" width = "500" height = "500">
 
 #### Running ctest -VV
 
-Insert Pic
+<img src="cStep4.png" width = "500" height = "500">
 
 
 ### Step 5
 
 #### CMakeLists.txt
 
-Insert Pic
+<img src="CMakeLists_Step5.png" width = "500" height = "500">
 
 #### MathFunctions/CMakeLists.txt
 
-Insert Pic
+<img src="cmakelists_Step5.png" width = "500" height = "500">
 
 #### Running Tutorial
 
-Insert Pic
+<img src="Step5.png" width = "500" height = "500">
 
