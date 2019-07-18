@@ -3,21 +3,22 @@
 
 ### Exercise00
 
-
+<img src="Step00.png" width = "500" height = "500">
 
 ### Exercise01
 
-Insert Pic
+<img src="Step01.png" width = "500" height = "500">
 
 ### Exercise02
 
-Insert Pic
+<img src="Example02.png" width = "500" height = "500">
 
 ### Exercise03
 
-Insert Pic
+<img src="Example03.png" width = "500" height = "500">
 
 ### Exercise04
 
-Insert Pic
+<img src="Example04_work.png" width = "500" height = "500">
+<img src="Example04.png" width = "500" height = "500">
 
