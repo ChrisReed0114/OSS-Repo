@@ -15,10 +15,10 @@
 
 ### Exercise03
 
-<img src="example03.png" width = "500" height = "500">
+<img src="exercise03.png" width = "500" height = "500">
 
 ### Exercise04
 
-<img src="example04_work.png" width = "500" height = "500">
-<img src="example04.png" width = "500" height = "500">
+<img src="exercise04_work.png" width = "500" height = "500">
+<img src="exercise04.png" width = "500" height = "500">
 
