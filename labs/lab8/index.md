@@ -3,12 +3,12 @@
 
 ### Data Visualization with ggplot2 (Part 1)
 
-Insert Pic
+<img src="dc1.png" width = "1000" height = "1000">
 
 ### Multiple and Logistic Regression
 #### I had problems with my computer and finished but then I lost the completed notification after it restarted on its own
 
-Insert Pic
+<img src="dc2.png" width = "1000" height = "1000">
 
 ### Flom
 
